@@ -35,7 +35,7 @@ Essa estrutura segue o padrão **1:N** entre dimensões e fato, garantindo integ
 
 Abaixo está a representação visual do modelo criado:
 
-![Modelo Star Schema](Universidade_Start_Schema.png)
+![Modelo Star Schema](Universidade_Start_Schema_nova.png)
 
 ---
 
